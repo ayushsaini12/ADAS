@@ -1,0 +1,11 @@
+*.pyc
+*.onnx
+*.trt
+
+*.pth
+TrafficLaneDetector/temp/*.mp4
+TrafficLaneDetector/temp/pic/*.jpg
+TrafficLaneDetector/temp/pic/*.png
+ObjectDetector/temp/*.avi
+/env
+/modals
